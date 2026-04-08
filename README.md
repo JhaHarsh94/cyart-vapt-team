@@ -10,7 +10,6 @@ Each week focuses on different aspects of cybersecurity, including theoretical l
 
 📂 Repository Structure
 
-- week-1/ → Initial setup and basics
 - week-2/ → Intermediate concepts and practice
 - week-3/ → Advanced exploitation, web testing, and reporting
 - week-4/ → (Upcoming work)
